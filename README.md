@@ -85,7 +85,7 @@ project
  |    |-- images                                # 图片集
  |    |    |-- ent_xxxxxx                       # 实体对应图片
  |    |    |-- ...
- |	  |-- OpenBG-IMG                            # 生成的数据
+ |    |-- OpenBG-IMG                            # 生成的数据
  |    |	   |-- train
  |    |	   |-- valid
  |    |	   |-- openbg_vit_best_img_vec.pickle
