@@ -81,7 +81,7 @@ bash requirements.sh
 
 ```bash
 project
- |-- data                                       # （没放...)
+ |-- data                                       # 见https://tianchi.aliyun.com/competition/entrance/531957/information
  |    |-- images                                # 图片集
  |    |    |-- ent_xxxxxx                       # 实体对应图片
  |    |    |-- ...
@@ -105,7 +105,7 @@ project
  |-- results                                    # （没放...)
  |	  |-- results.txt
  |	  |-- results.tsv
- |-- scores                                     # （没放...) test.tsv头实体与关系的组合对于所有尾实体的分数（已保存结果）
+ |-- scores                                     # （没放...需要先跑了train.sh再跑) test.tsv头实体与关系的组合对于所有尾实体的分数（已保存结果）
  |	  |-- scores_1.pickle
  |	  |-- ...
  |-- train.sh 
