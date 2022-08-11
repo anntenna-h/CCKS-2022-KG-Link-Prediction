@@ -2,6 +2,9 @@
 
 by 整点薯条
 
+赛题及任务介绍见https://tianchi.aliyun.com/competition/entrance/531957/introduction
+
+
 # 解决方案
 
 ## 知识图谱模型
